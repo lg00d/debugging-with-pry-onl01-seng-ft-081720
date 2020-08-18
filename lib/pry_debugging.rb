@@ -1,5 +1,7 @@
-def plus_two(num) # 3
-	num + 2 # 3 + 2
-	num # 3
+def plus_two(num)
+	num = num + 2
+	num 
 	binding.pry
 end
+
+
